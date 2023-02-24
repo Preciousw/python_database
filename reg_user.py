@@ -9,5 +9,4 @@ try:
     print("User created succcessfully")
 
 except :
-    print("Regi"
-          "stration failed. Use a different email")
+    print("Registration failed. Use a different email")
